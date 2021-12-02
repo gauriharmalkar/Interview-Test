@@ -1,0 +1,7 @@
+C:\Users\91869\Desktop\Final Project Job Portal\JobPortalProject\JobPortalProject\obj\Debug\netcoreapp3.1\JobPortalProject.csproj.AssemblyReference.cache
+C:\Users\91869\Desktop\Final Project Job Portal\JobPortalProject\JobPortalProject\obj\Debug\netcoreapp3.1\JobPortalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91869\Desktop\Final Project Job Portal\JobPortalProject\JobPortalProject\obj\Debug\netcoreapp3.1\JobPortalProject.AssemblyInfoInputs.cache
+C:\Users\91869\Desktop\Final Project Job Portal\JobPortalProject\JobPortalProject\obj\Debug\netcoreapp3.1\JobPortalProject.AssemblyInfo.cs
+C:\Users\91869\Desktop\Final Project Job Portal\JobPortalProject\JobPortalProject\obj\Debug\netcoreapp3.1\JobPortalProject.csproj.CoreCompileInputs.cache
+C:\Users\91869\Desktop\Final Project Job Portal\JobPortalProject\JobPortalProject\obj\Debug\netcoreapp3.1\JobPortalProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\91869\Desktop\Final Project Job Portal\JobPortalProject\JobPortalProject\obj\Debug\netcoreapp3.1\JobPortalProject.MvcApplicationPartsAssemblyInfo.cache
